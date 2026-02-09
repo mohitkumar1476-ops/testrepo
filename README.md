@@ -1,2 +1,2 @@
 # testrepo
-tutorial
+tutorial of github repository
